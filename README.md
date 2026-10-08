@@ -18,7 +18,7 @@ This is my submission for task 6 on web programming for designing CRUD DB School
 3. Clone this repository
 <!-- TODO: add script -->
 4. Run your apache and mysql local server.
-5. Run [database](./db.sql) sql script first for database scheme.
+5. Run [database](./init.sql) sql script first for database scheme.
 6. Go to your browser and access `seed_admin.php` first then comment [.htaccess](./src/.htaccess) this line:
 
 ```htaccess
